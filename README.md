@@ -1,4 +1,4 @@
-# BedView: NHS Kent and Medway ICB – Bed Availability and Occupancy Analysis (2000–2025)
+# NHS Kent and Medway ICB – Bed Availability and Occupancy Analysis (2000–2025)
 
 This project analyzes 25 years of hospital bed availability and occupancy data for the **NHS Kent and Medway Integrated Care Board (ICB)**. It provides insights into capacity trends across healthcare sectors, helping inform planning, resource allocation, and policy development.
 
