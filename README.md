@@ -1,12 +1,29 @@
-# NHS Kent and Medway ICB – Bed Availability and Occupancy Analysis (2000–2025)
+# Hospital Bed Availability and Occupancy in NHS
 
-This project analyzes 25 years of hospital bed availability and occupancy data for the **NHS Kent and Medway Integrated Care Board (ICB)**. It provides insights into capacity trends across healthcare sectors, helping inform planning, resource allocation, and policy development.
+Analyzing trends in hospital bed availability and occupancy across NHS hospitals in England.
 
-## Key Features
+## Project Overview
 
-- Preprocessing and normalization of NHS bed data (2000–2025)  
-- Automated merging of multiple CSV files into a unified dataset  
-- Visualization of trends by trust within Kent and Medway  
-- Sector-specific analysis: general & acute, maternity, mental health, and community care  
-- Supports policy evaluation and demand forecasting for the Kent and Medway ICB
-*Developed using Python and Jupyter Notebooks. Designed for health service researchers, analysts, and policy teams working on NHS operational insights.*
+This project examines NHS hospital bed utilization to monitor capacity, assess seasonal and regional variations, and provide insights into potential strain on hospital services. The analysis includes:
+
+- Bed availability vs. occupancy trends over time  
+- Regional and trust-level comparisons  
+- Seasonal patterns and pressure during peak periods  
+- Identification of capacity challenges
+
+The aim is to support proactive capacity planning, resource allocation, and system resilience across the NHS.
+
+## Objectives
+
+- Visualize historical and current bed occupancy rates  
+- Compare trends across regions and hospital trusts  
+- Identify peak pressure periods
+- Equip NHS planners with data-driven insights
+
+## Tools & Data Sources
+
+- **Language:** Python with pandas, numpy, matplotlib, seaborn, plotly, geopandas  
+- **Data Sources:** NHS England bed availability and occupancy datasets, Trust profiles, ONS demographic context  
+- **Notebooks:** Jupyter Notebooks covering data collection, cleaning, analysis, and mapping
+
+
