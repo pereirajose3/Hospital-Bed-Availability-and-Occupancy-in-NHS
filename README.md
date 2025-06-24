@@ -1,6 +1,7 @@
 # Hospital Bed Availability and Occupancy in NHS
 
-Analyzing trends in hospital bed availability and occupancy across NHS hospitals in England.
+Analyzing trends in hospital bed availability and occupancy across NHS hospitals in NHS Kent and Medway Integrated Care Board (ICB)
+.
 
 ## Project Overview
 
