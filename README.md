@@ -10,7 +10,7 @@ This project examines NHS hospital bed utilization to monitor capacity, assess s
 - Bed availability vs. occupancy trends over time  
 - Regional and trust-level comparisons  
 - Seasonal patterns and pressure during peak periods  
-- Identification of capacity challenges
+- Identification of capacity challenges 
 
 The aim is to support proactive capacity planning, resource allocation, and system resilience across the NHS.
 
