@@ -12,7 +12,7 @@ This project examines NHS hospital bed utilization to monitor capacity, assess s
 - Seasonal patterns and pressure during peak periods  
 - Identification of capacity challenges 
 
-The aim is to support proactive capacity planning, resource allocation, and system resilience across the NHS.
+The aim is to support proactive capacity planning, resource allocation, and system resilience across the ICB.
 
 ## Objectives
 
@@ -23,8 +23,8 @@ The aim is to support proactive capacity planning, resource allocation, and syst
 
 ## Tools & Data Sources
 
-- **Language:** Python with pandas, numpy, matplotlib, seaborn, plotly, geopandas  
-- **Data Sources:** NHS England bed availability and occupancy datasets, Trust profiles, ONS demographic context  
-- **Notebooks:** Jupyter Notebooks covering data collection, cleaning, analysis, and mapping
+- **Language:** Python with pandas, numpy, matplotlib, seaborn, plotly, pandas  
+- **Data Sources:** NHS England bed availability and occupancy datasets
+- **Notebooks:** Jupyter Notebooks covering data collection, cleaning, and analysis
 
 
