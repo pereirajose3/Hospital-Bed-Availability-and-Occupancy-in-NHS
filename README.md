@@ -8,7 +8,7 @@ Analyzing trends in hospital bed availability and occupancy across NHS hospitals
 This project examines NHS hospital bed utilization to monitor capacity, assess seasonal and regional variations, and provide insights into potential strain on hospital services. The analysis includes:
 
 - Bed availability vs. occupancy trends over time  
-- Regional and trust-level comparisons  
+- ICB and trust-level comparisons
 - Seasonal patterns and pressure during peak periods  
 - Identification of capacity challenges 
 
@@ -17,7 +17,7 @@ The aim is to support proactive capacity planning, resource allocation, and syst
 ## Objectives
 
 - Visualize historical and current bed occupancy rates  
-- Compare trends across regions and hospital trusts  
+- Compare trends across ICBs and hospital trusts  
 - Identify peak pressure periods
 - Equip NHS planners with data-driven insights
 
