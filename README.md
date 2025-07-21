@@ -25,6 +25,6 @@ The aim is to support proactive capacity planning, resource allocation, and syst
 
 - **Language:** Python with pandas, numpy, matplotlib, seaborn, plotly, pandas  
 - **Data Sources:** NHS England bed availability and occupancy datasets
-- **Notebooks:** Jupyter Notebooks covering data collection, cleaning, and analysis
+- **Notebooks:** Jupyter Notebooks covering extraction, transform, load (ETL), data collection, cleaning, and analysis.
 
 
