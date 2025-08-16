@@ -1,11 +1,11 @@
 # Hospital Bed Availability and Occupancy in NHS
 
-Analyzing trends in hospital bed availability and occupancy across NHS hospitals in NHS Kent and Medway Integrated Care Board (ICB)
+Analyzing trends in hospital bed availability and occupancy across NHS hospitals in NHS Norfolk and Waveney Integrated Care Board (ICB)
 .
 
 ## Project Overview
 
-This project examines NHS hospital bed utilization to monitor capacity, assess seasonal and regional variations, and provide insights into potential strain on hospital services. The analysis includes:
+This project examines NHS hospital bed utilization to monitor capacity, assess seasonal and regional variations, and provide insights into potential strain on Trust services. The analysis includes:
 
 - Bed availability vs. occupancy trends over time  
 - ICB and trust-level comparisons
