@@ -8,7 +8,8 @@ Based on the findings of this report, several next steps should be considered. F
 ## 2. Data & Findings
 ### 2.1- Overall Discharge Challenges
 James Paget has consistently faced challenges discharging patients who are medically fit to leave. From July 2024 to March 2025, between 2000 and 3000 patients a day remained in hospital despite no longer meeting the criteria to reside. This is a considerable proportion of the total 3500-4500 patients a day identified as no longer meeting the criteria to reside. On average, each day, the number of patients discharged was lower than the number of patients remaining in the hospital.
-<img width="468" height="220" alt="image" src="https://github.com/user-attachments/assets/beeaa0e9-2c92-4a14-823f-c861aeeab466" />
+![Uploading o_Patients_Who_No_Longer_Meet_The_Criteria_To_Reside_James Paget University Hospitals NHS Foundation Trust.png…]()
+
 
  
 ### 2.2-Nature of Discharge Delays 
