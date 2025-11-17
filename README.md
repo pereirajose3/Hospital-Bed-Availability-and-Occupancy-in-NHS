@@ -22,6 +22,9 @@ At James Paget, the largest driver of bed days lost after the discharge-ready da
 
  
 At James Paget, the average days from discharge-ready date to discharge has been increasing to levels above the national average. In February 2024, the average was 4.8 days at James Paget and 6.3 days nationally. By February 2025, the average had risen to 8.1 days at James Paget, while the national average had decreased to 6.1 days. 
+
+<img width="4573" height="2149" alt="average_days_delayed_JamesPaget_vs_England_labels" src="https://github.com/user-attachments/assets/9577f9e4-0ddd-44a4-8b00-cd811f88d334" />
+
  
 ### 2.3- Reasons for Delayed Discharges
 Hospital process delays are the most common reason for delayed discharge at James Paget. The latest data collection system, launched in May 2024, requires discharge hubs and wards to classify discharges into one of the following categories:
@@ -31,11 +34,22 @@ Hospital process delays are the most common reason for delayed discharge at Jame
 •	Interface process (where transfer is in progress but not yet been finalized)
 •	Capacity (where the required service for the patient is not yet accessible)
 With the exception of hospital process, all categories involve delays attributed to both the NHS and social care. From June 2024 to April 2025, patients with lengths of stays of at least 14 days at James Paget collectively experienced 22,582 patient-days of delay. The main cause was interface process (7,587 patient-days), followed by hospital process (7,346), care-transfer hub process (6,030), capacity (2,878), and wellbeing concerns (1,441). 
+
+<img width="2465" height="1289" alt="delay_reasons_james_paget_university_hospitals_nhs_foundation_trust_nhsblue_overview" src="https://github.com/user-attachments/assets/321a724d-ab72-4265-854b-4f5f95868a1f" />
  
 If we focus on the patient-day delays attributed to interface process issues, the main reason within this category is that residential or nursing home care arrangements are still underway (3,120 patient-days). Within the hospital process category, the main reason is awaiting therapy review to assess the need for supported discharge (3,823 patient-days). Among the patient-days delays attributed to care-transfer hub process issues, the main reason is awaiting confirmation of immediate care needs and pathway (5,178 patient-days).
  
- 
- 
+<img width="4622" height="2745" alt="delay_reason_breakdown_interface_process_nhsblue" src="https://github.com/user-attachments/assets/26ae6166-97ab-445b-856a-c66a62f1bc61" />
+
+<img width="4623" height="2745" alt="delay_reason_breakdown_hospital_process_nhsblue" src="https://github.com/user-attachments/assets/97c776d6-a176-4fe1-bc60-97b17f12548e" />
+
+<img width="4622" height="2745" alt="delay_reason_breakdown_care_transfer_hub_process_nhsblue" src="https://github.com/user-attachments/assets/22f177ab-7db7-4aa7-9932-0458e4796d60" />
+
+
+
+
+
+
 
 
 
@@ -45,6 +59,9 @@ If we focus on the patient-day delays attributed to interface process issues, th
 
 ### 2.4- Bed Occupancy Context
 Although there is no agreed standard for bed occupancy rates, NHS operational planning guidelines set the maximum threshold at 92%. The bed occupancy rate at James Paget has consistently been below 92% over the past few years. During the pandemic, bed occupancy fell considerably; however, the NHS stated that hospitals experienced bed pressures even with low occupancy levels due to infection control and other measures to monitor how beds and staff were managed. The bed occupancy rate returned to pre-pandemic levels at the end of 2022.
+
+<img width="4575" height="2146" alt="A2_Avg_Daily_Perctg_Available_Beds_James_Paget_University_Hospitals_NHS_Foundation_Trust" src="https://github.com/user-attachments/assets/ec9ae729-ded9-4fc7-9cf0-8f9ed781b9fe" />
+
  
 
 ## 3. Discussion & Implications
