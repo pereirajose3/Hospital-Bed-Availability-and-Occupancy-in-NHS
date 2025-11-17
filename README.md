@@ -16,7 +16,8 @@ James Paget has consistently faced challenges discharging patients who are medic
 ### 2.2-Nature of Discharge Delays 
 At James Paget, the largest driver of bed days lost after the discharge-ready date was patients experiencing long delays of more than 21 days. These long delays increased considerably over 2024–25 and accounted for a large proportion of bed days lost in the entire period analyzed. Minor delays, from 1, 2 to 3, 4 to 6, 7 to 13 and 14 to 20 represented a lower proportion of the total days lost.
 
-<img width="468" height="220" alt="image" src="https://github.com/user-attachments/assets/95f5ff44-a5da-4f75-88a7-bb9a436793bc" />
+<img width="4575" height="2149" alt="Delayed_discharges_James Paget University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/6c058be5-45ac-4c16-b5d5-8015f7cca092" />
+
 
 
  
