@@ -38,20 +38,20 @@ If we focus on the patient-day delays attributed to interface process issues, th
  
 
 
-###2.4- Bed Occupancy Context
+### 2.4- Bed Occupancy Context
 Although there is no agreed standard for bed occupancy rates, NHS operational planning guidelines set the maximum threshold at 92%. The bed occupancy rate at James Paget has consistently been below 92% over the past few years. During the pandemic, bed occupancy fell considerably; however, the NHS stated that hospitals experienced bed pressures even with low occupancy levels due to infection control and other measures to monitor how beds and staff were managed. The bed occupancy rate returned to pre-pandemic levels at the end of 2022.
  
 
-##3. Discussion & Implications
-###3.1 Persistent Discharge Delays and Systemic Pressures
+## 3. Discussion & Implications
+### 3.1 Persistent Discharge Delays and Systemic Pressures
 James Paget has had persistent challenges in discharging patients who are clinically ready to leave. Despite a national effort to improve patient flow and delayed discharges, between July 2024 and March 2025, between 2,000 and 3,000 patients at James Paget each day remained in the hospital despite being medically fit to leave. This figure represents a high proportion of the total discharged patients who no longer meet the criteria to remain in the hospital. 
 These findings indicate that delayed discharges at James Paget are a key operational issue that directly affects patient flow, bed availability and emergency department congestion. Delayed discharges not only increase pressure on hospital capacity but can also lead to poorer patient outcomes, including loss of independence due to reduced mobility and confidence after discharge.
-###3.2 - Nature and Duration of Delays
+### 3.2 - Nature and Duration of Delays
 Long delays of more than 21 days are the main drivers of lost bed days at James Paget. These long delays increased between February 2024 and January 2025 and represent now a high proportion of the total bed days lost after the discharge-ready date. This suggests that systemic barriers that go far beyond day-to-day operational inefficiencies significantly affect total bed days discharges. 
 Minor delays, ranging from 1 to 6 days, represent a relatively small percentage of the total bed days lost, indicating that operational improvements in discharge process routines will not be sufficient to solve the problem, as they may not address the root cause.
 In addition, the increase of the average days from discharge-ready date to discharge from 4.8 days to 8.1 at James Paget – exceeding the national average – indicates that the discharge efficiency is deteriorating. These increases at James Paget signals the importance of targeted local strategies, data-driven monitoring, and collaboration between hospitals, NHS planners, community providers, and local authorities.
 
-###3.3- Causes of Delay and Cross-System Dependencies
+### 3.3- Causes of Delay and Cross-System Dependencies
 Hospital and interface process delays are the most common reason for delayed discharge at James Paget. Patients with a length of stay of 14 days or over who no longer meet the criteria to reside collectively experienced 7,587 patient-days of delay due to interface process issues, 7,346 due to hospital process issues and 6,030 due to care-transfer hub process-related delays. This distribution highlights the importance of an integrated discharge planning across all social and health care, as bottlenecks in one part of the system can create cascading effects that prolong hospital stays and impact patient flow elsewhere in the system.
 The high number of delays related with interface and care-transfer hub processes suggests that joint accountability mechanisms involving hospitals and local care providers are needed to understand and address the root causes of the delayed discharges. The large number of cases awaiting confirmation of immediate care needs and pathway shows the complexity of decision-making in determining whether the patient requires residential care, home care, or reablement. The lack of standardized, joint assessment tools or real-time information between hospitals and social care exacerbates this problem. 
 Awaiting therapy review to assess the need for supported discharge is the second biggest reason for delayed discharges. Therapy assessments are essential for safe discharge plans; however, these assessments can be delayed due to staff shortages, low weekend cover or other clinical priorities. This highlights the importance to prioritize the planning of discharge assessments earlier in the patient journey and expand the availability of the workforce in a way that allows a seven-day discharge planning.  
