@@ -10,23 +10,29 @@ Based on the findings of this report, several next steps should be considered. F
 
 ## 2. Data & Findings
 ### 2.1- Overall Discharge Challenges
-James Paget has consistently faced challenges discharging patients who are medically fit to leave. From July 2024 to March 2025, between 2000 and 3000 patients a day remained in hospital despite no longer meeting the criteria to reside. This is a considerable proportion of the total 3500-4500 patients a day identified as no longer meeting the criteria to reside. On average, each day, the number of patients discharged was lower than the number of patients remaining in the hospital.
+James Paget has consistently faced challenges discharging patients who are medically fit to leave. From July 2024 to March 2025, between 2000 and 3000 patients a day remained in hospital despite no longer meeting the criteria to reside (Figure 1). This is a considerable proportion of the total 3500-4500 patients a day identified as no longer meeting the criteria to reside. On average, each day, the number of patients discharged was lower than the number of patients remaining in the hospital.
 
 <img width="4575" height="2149" alt="o_Patients_Who_No_Longer_Meet_The_Criteria_To_Reside_James Paget University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/785a9798-d2a4-4aec-9e77-e4b7a050d084" />
+Figure 1: Outcomes for Patients Who No Longer Meet the Criteria to Reside<img width="468" height="46" alt="image" src="https://github.com/user-attachments/assets/6dcc4ecc-b7ee-40a5-9798-18df4b160f8b" />
+
 
 
  
 ### 2.2-Nature of Discharge Delays 
-At James Paget, the largest driver of bed days lost after the discharge-ready date was patients experiencing long delays of more than 21 days. These long delays increased considerably over 2024–25 and accounted for a large proportion of bed days lost in the entire period analyzed. Minor delays, from 1, 2 to 3, 4 to 6, 7 to 13 and 14 to 20 represented a lower proportion of the total days lost.
+At James Paget, the largest driver of bed days lost after the discharge-ready date was patients experiencing long delays of more than 21 days. These long delays increased considerably over 2024–25 and accounted for a large proportion of bed days lost in the entire period analyzed. Minor delays, from 1, 2 to 3, 4 to 6, 7 to 13 and 14 to 20 represented a lower proportion of the total days lost (Figure 2).
 
 <img width="4575" height="2149" alt="Delayed_discharges_James Paget University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/6c058be5-45ac-4c16-b5d5-8015f7cca092" />
+Figure 2: Total Bed Days Lost After Discharge-Ready Date by Length of Delay<img width="468" height="46" alt="image" src="https://github.com/user-attachments/assets/4373ee54-23e5-47ba-9704-1ba6f84d1cfb" />
+
 
 
 
  
-At James Paget, the average days from discharge-ready date to discharge has been increasing to levels above the national average. In February 2024, the average was 4.8 days at James Paget and 6.3 days nationally. By February 2025, the average had risen to 8.1 days at James Paget, while the national average had decreased to 6.1 days. 
+At James Paget, the average days from discharge-ready date to discharge has been increasing to levels above the national average. In February 2024, the average was 4.8 days at James Paget and 6.3 days nationally. By February 2025, the average had risen to 8.1 days at James Paget, while the national average had decreased to 6.1 days (Figure 3). 
 
 <img width="4573" height="2149" alt="average_days_delayed_JamesPaget_vs_England_labels" src="https://github.com/user-attachments/assets/9577f9e4-0ddd-44a4-8b00-cd811f88d334" />
+Figure 3: Average Delay from Discharge-Ready Date to Actual Discharge (Excluding 0-Day Delays)
+
 
  
 ### 2.3- Reasons for Delayed Discharges
@@ -36,34 +42,28 @@ Hospital process delays are the most common reason for delayed discharge at Jame
 •	Care-transfer hub process (for example, the most common situation is where the patient’s immediate care needs and pathway have not yet been determined)
 •	Interface process (where transfer is in progress but not yet been finalized)
 •	Capacity (where the required service for the patient is not yet accessible)
-With the exception of hospital process, all categories involve delays attributed to both the NHS and social care. From June 2024 to April 2025, patients with lengths of stays of at least 14 days at James Paget collectively experienced 22,582 patient-days of delay. The main cause was interface process (7,587 patient-days), followed by hospital process (7,346), care-transfer hub process (6,030), capacity (2,878), and wellbeing concerns (1,441). 
+With the exception of hospital process, all categories involve delays attributed to both the NHS and social care. From June 2024 to April 2025, patients with lengths of stays of at least 14 days at James Paget collectively experienced 22,582 patient-days of delay. The main cause was interface process (7,587 patient-days), followed by hospital process (7,346), care-transfer hub process (6,030), capacity (2,878), and wellbeing concerns (1,441) (Figure 4). 
 
 <img width="2465" height="1289" alt="delay_reasons_james_paget_university_hospitals_nhs_foundation_trust_nhsblue_overview" src="https://github.com/user-attachments/assets/321a724d-ab72-4265-854b-4f5f95868a1f" />
+Figure 4: Reasons for Delayed Patient-Days at James Paget (Jun 2024–Apr 2025)
  
-If we focus on the patient-day delays attributed to interface process issues, the main reason within this category is that residential or nursing home care arrangements are still underway (3,120 patient-days). Within the hospital process category, the main reason is awaiting therapy review to assess the need for supported discharge (3,823 patient-days). Among the patient-days delays attributed to care-transfer hub process issues, the main reason is awaiting confirmation of immediate care needs and pathway (5,178 patient-days).
+If we focus on the patient-day delays attributed to interface process issues, the main reason within this category is that residential or nursing home care arrangements are still underway (3,120 patient-days) (Figure 5). Within the hospital process category, the main reason is awaiting therapy review to assess the need for supported discharge (3,823 patient-days) (Figure 6). Among the patient-days delays attributed to care-transfer hub process issues, the main reason is awaiting confirmation of immediate care needs and pathway (5,178 patient-days) (Figure 7).
  
 <img width="4622" height="2745" alt="delay_reason_breakdown_interface_process_nhsblue" src="https://github.com/user-attachments/assets/26ae6166-97ab-445b-856a-c66a62f1bc61" />
+Figure 5: Detailed Breakdown of “Interface Process” Discharge Delay Reasons (Jun 2024 – Apr 2025)
 
 <img width="4623" height="2745" alt="delay_reason_breakdown_hospital_process_nhsblue" src="https://github.com/user-attachments/assets/97c776d6-a176-4fe1-bc60-97b17f12548e" />
+Figure 6: Detailed Breakdown of “Hospital Process” Discharge Delay Reasons (Jun 2024 – Apr 2025)
 
 <img width="4622" height="2745" alt="delay_reason_breakdown_care_transfer_hub_process_nhsblue" src="https://github.com/user-attachments/assets/22f177ab-7db7-4aa7-9932-0458e4796d60" />
-
-
-
-
-
-
-
-
-
-
- 
+Figure 7: Detailed Breakdown of “Care Transfer Hub Process” Discharge Delay Reasons (Jun 2024 – Apr 2025)
 
 
 ### 2.4- Bed Occupancy Context
-Although there is no agreed standard for bed occupancy rates, NHS operational planning guidelines set the maximum threshold at 92%. The bed occupancy rate at James Paget has consistently been below 92% over the past few years. During the pandemic, bed occupancy fell considerably; however, the NHS stated that hospitals experienced bed pressures even with low occupancy levels due to infection control and other measures to monitor how beds and staff were managed. The bed occupancy rate returned to pre-pandemic levels at the end of 2022.
+Although there is no agreed standard for bed occupancy rates, NHS operational planning guidelines set the maximum threshold at 92%. The bed occupancy rate at James Paget has consistently been below 92% over the past few years (Figure 8). During the pandemic, bed occupancy fell considerably; however, the NHS stated that hospitals experienced bed pressures even with low occupancy levels due to infection control and other measures to monitor how beds and staff were managed. The bed occupancy rate returned to pre-pandemic levels at the end of 2022.
 
 <img width="4575" height="2146" alt="A2_Avg_Daily_Perctg_Available_Beds_James_Paget_University_Hospitals_NHS_Foundation_Trust" src="https://github.com/user-attachments/assets/ec9ae729-ded9-4fc7-9cf0-8f9ed781b9fe" />
+Figure 8: Average Daily Percentage of Overnight Bed Occupancy (2011–2024)
 
  
 
